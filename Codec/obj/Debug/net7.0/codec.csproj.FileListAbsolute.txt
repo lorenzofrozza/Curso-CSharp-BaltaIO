@@ -1,0 +1,15 @@
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\bin\Debug\net7.0\codec.exe
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\bin\Debug\net7.0\codec.deps.json
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\bin\Debug\net7.0\codec.runtimeconfig.json
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\bin\Debug\net7.0\codec.dll
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\bin\Debug\net7.0\codec.pdb
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\obj\Debug\net7.0\codec.csproj.AssemblyReference.cache
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\obj\Debug\net7.0\codec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\obj\Debug\net7.0\codec.AssemblyInfoInputs.cache
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\obj\Debug\net7.0\codec.AssemblyInfo.cs
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\obj\Debug\net7.0\codec.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\obj\Debug\net7.0\codec.dll
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\obj\Debug\net7.0\refint\codec.dll
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\obj\Debug\net7.0\codec.pdb
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\obj\Debug\net7.0\codec.genruntimeconfig.cache
+C:\Users\Lorenzo\Desktop\CURSO FUNDAMENTOS C# BALTA IO\codec\obj\Debug\net7.0\ref\codec.dll
